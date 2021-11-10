@@ -1,4 +1,5 @@
 Indicaciones generales de proyectos de fin de curso
 Formar grupos de 3 personas
 Plantee el desarrollo de un proyecto web
-Prueba desde master
+<<<<<<< HEAD
+Prueba desde master y develop
